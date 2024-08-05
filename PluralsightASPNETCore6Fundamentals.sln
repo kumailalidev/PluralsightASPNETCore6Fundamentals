@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleApplication", "03-Set
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShop", "03-SettingUpAnASPNETCore6MVCApplication\BethanysPieShop\BethanysPieShop.csproj", "{A07328A4-1333-449A-BCE3-59413C388088}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-CreatingTheFirstPage", "04-CreatingTheFirstPage", "{DBFF2DFA-3540-4FDA-BB99-DBB71CC15787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShop", "04-CreatingTheFirstPage\BethanysPieShop\BethanysPieShop.csproj", "{1E2253D0-2C20-40E0-ACCD-1FF38C5351F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -26,9 +30,14 @@ Global
 		{A07328A4-1333-449A-BCE3-59413C388088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A07328A4-1333-449A-BCE3-59413C388088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A07328A4-1333-449A-BCE3-59413C388088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2253D0-2C20-40E0-ACCD-1FF38C5351F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2253D0-2C20-40E0-ACCD-1FF38C5351F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2253D0-2C20-40E0-ACCD-1FF38C5351F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2253D0-2C20-40E0-ACCD-1FF38C5351F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{E78C154A-78C3-463C-A32F-75506AA859AC} = {0AB00E04-C4A7-431D-B56C-A47A582715DA}
 		{A07328A4-1333-449A-BCE3-59413C388088} = {0AB00E04-C4A7-431D-B56C-A47A582715DA}
+		{1E2253D0-2C20-40E0-ACCD-1FF38C5351F6} = {DBFF2DFA-3540-4FDA-BB99-DBB71CC15787}
 	EndGlobalSection
 EndGlobal
